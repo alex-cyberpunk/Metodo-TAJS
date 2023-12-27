@@ -33,5 +33,9 @@ Frontend
 
 ## Testes unitarios
     Voce parte do principio que as APIS estao funcionando corretamente.
-    ![s](image-6.png)
+![s](image-6.png)
 
+# MOCKS
+    Imita um comportamento , com uma entrada simulada. Teste devem ser 100% offline e nao depender de conexao externas.
+![Alt text](image-9.png)
+    Os mocks funcionam como checkpoints , de um ponto a outro.
