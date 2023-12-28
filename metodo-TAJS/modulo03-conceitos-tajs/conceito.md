@@ -17,4 +17,4 @@ QUANDO E O MELHOR MOMENTO PARA USAR MOCKS ?
 
 *Code Coverage*: o quao seus testes cobrem suas funcoes
  *Statements* -> funcoes
- *Branchs*-> ifs
+ *Branhs*-> ifsc
