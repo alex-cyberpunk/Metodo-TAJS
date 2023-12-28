@@ -2,8 +2,8 @@ import server from "./server.js";
 
 if(process.env.NODE_ENV !== 'test'){
     server.listen(process.env.PORT, () => {
-        const serveInfo = server.address();
-        console.log('Server running at' + serveInfo.address + ':' + serveInfo.port);
+        const serverInfo = server.address();
+        console.log(`server is running at ${serverInfo.address}:${serverInfo.port}`)
     });
 }
 
