@@ -16,7 +16,8 @@
     "node": "v20.8.1"
   },
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
   },
   "dependencies": {
     "silent": "^0.2.3"
